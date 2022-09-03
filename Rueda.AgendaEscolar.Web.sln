@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rueda.AgendaEscolar.Web", "Rueda.AgendaEscolar.Web.csproj", "{7B59BB82-B895-43B1-8C47-AEE375D7CE20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rueda.AgendaEscolar.UsuarioService", "..\Rueda.AgendaEscolar.UsuarioService\Rueda.AgendaEscolar.UsuarioService.csproj", "{9A6022CA-A4F2-4302-A8C0-FF568317BBB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B59BB82-B895-43B1-8C47-AEE375D7CE20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B59BB82-B895-43B1-8C47-AEE375D7CE20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B59BB82-B895-43B1-8C47-AEE375D7CE20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B59BB82-B895-43B1-8C47-AEE375D7CE20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A6022CA-A4F2-4302-A8C0-FF568317BBB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6022CA-A4F2-4302-A8C0-FF568317BBB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6022CA-A4F2-4302-A8C0-FF568317BBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6022CA-A4F2-4302-A8C0-FF568317BBB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4F00E4A-87DF-412D-B087-E83CE5414E2A}
+	EndGlobalSection
+EndGlobal
